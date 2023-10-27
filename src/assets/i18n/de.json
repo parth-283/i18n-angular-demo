@@ -1,0 +1,11 @@
+{
+  "Sitetitle": "Winkelige mehrsprachige Website",
+  "Name": { "name": "zfsdf" },
+  "NameError": "Ich bin sicher, Sie müssen einen Namen haben!",
+  "Email": "E-Mail-Adresse",
+  "PhoneNo": "Telefonnr",
+  "Password": "Passwort",
+  "Bio": "Bio eingeben",
+  "TermsConditions": "Ich stimme den Allgemeinen Geschäftsbedingungen zu.",
+  "Submit": "einreichen"
+}
